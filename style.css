@@ -1,8 +1,8 @@
 #theWords {
 font-family: Verdana, Geneva, sans-serif;
-font-size: 3em;
-letter-spacing: 2px;
-word-spacing: 2px;
+font-size: 7vw;
+letter-spacing: 0.1vw;
+word-spacing: 0.1vw;
 color: #000000;
 font-weight: 700;
 text-decoration: none;
@@ -15,9 +15,9 @@ width: 90%;
 
 #smallerWords {
 font-family: Verdana, Geneva, sans-serif;
-font-size: 1em;
-letter-spacing: 2px;
-word-spacing: 2px;
+font-size: 4vw;
+letter-spacing: 0.1vw;
+word-spacing: 0.1vw;
 color: #000000;
 font-weight: 700;
 text-decoration: none;
